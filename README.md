@@ -1,5 +1,5 @@
 # basicImageScrapper
-<p>A basic python solution for an image scrapper.</p>
+<p>A simple python solution for an image scrapper.</p>
 
 <h2>Requirements: </h2>
 <ul>
